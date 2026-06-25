@@ -29,15 +29,15 @@ Modifikasi program sehingga:
 
 Menggunakan environment Taxi-v3 Menampilkan rata-rata reward setiap 100 episode Membandingkan hasil training 1000, 2000, dan 5000 episode
 
-100
+reward 100
 <img width="1600" height="781" alt="WhatsApp Image 2026-06-25 at 09 55 53" src="https://github.com/user-attachments/assets/e8745187-fc6b-4b1f-bd42-0f3ffbe40700" />
 
-1000
+reward 1000
 <img width="1600" height="792" alt="WhatsApp Image 2026-06-25 at 09 48 06" src="https://github.com/user-attachments/assets/cc83e50c-a644-48c6-a465-cfcce444342f" />
 
-2000
+reward 2000
 <img width="1600" height="790" alt="WhatsApp Image 2026-06-25 at 09 59 16" src="https://github.com/user-attachments/assets/4f7d03aa-4f77-45d5-8bc0-48ebab92583f" />
 
-5000
+reward 5000
 <img width="1600" height="786" alt="WhatsApp Image 2026-06-25 at 09 52 57" src="https://github.com/user-attachments/assets/3f1e3708-5313-4535-9d96-065445436f3e" />
 
