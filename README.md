@@ -42,4 +42,6 @@ reward 5000
 <img width="1600" height="786" alt="WhatsApp Image 2026-06-25 at 09 52 57" src="https://github.com/user-attachments/assets/3f1e3708-5313-4535-9d96-065445436f3e" />
 <img width="1371" height="625" alt="image" src="https://github.com/user-attachments/assets/ba494cf4-2459-44fd-b203-344136f39a2c" />
 
-
+Kurang dari 2000 episode (1000 episode), model under-trained (kurang latihan) sehingga kinerjanya belum bisa diandalkan.
+Tepat di 2000 episode, model berada pada kondisi well-trained (matang sempurna), menghasilkan profit/reward maksimal dengan waktu running program yang pas.
+Lebih dari 2000 episode (5000 episode), model mengalami over-running atau kejenuhan komputasi di mana penambahan waktu training sama sekali tidak memberikan nilai tambah terhadap kualitas pengambilan keputusan agen.
